@@ -24,5 +24,6 @@ El código principal de la página de bienvenida se encuentra en `src/index.html
 <body>
     <h1>¡Hola Mundo! 👋</h1>
     <p>Bienvenidas y bienvenidos a 1º de DAM...</p>
+    <p>modificamos este fichero para la rama 2</p>
 </body>
 </html>
